@@ -1,4 +1,4 @@
-# Next.js Template by Mon Pote 🧪
+# Next.js Template
 
 Un template Next.js full-stack prêt à l'emploi, avec tous les outils modernes pour développer rapidement des apps performantes.
 
