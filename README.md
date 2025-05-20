@@ -16,10 +16,10 @@ Un template Next.js full-stack prêt à l'emploi, avec tous les outils modernes 
 ## 🚀 Démarrage rapide
 
 ```bash
-npx create-mon-template mon-app
-cd mon-app
-bun install
-bun dev
+npx gogo-gadgeto-create my-app
+cd my-app
+bun install or pnpm install
+bun dev or pnpm dev
 
 ```
 
